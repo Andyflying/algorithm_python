@@ -9,3 +9,7 @@
 # [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
 
 典型的dfs问题。如果与字符串不匹配则剪枝。
+
+# [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
+
+贪心问题。已知分割份数，则尽量平均分割即可；所以只需要遍历可能的分割份数。
