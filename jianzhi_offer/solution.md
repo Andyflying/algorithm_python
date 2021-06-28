@@ -13,3 +13,7 @@
 # [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
 
 贪心问题。已知分割份数，则尽量平均分割即可；所以只需要遍历可能的分割份数。
+
+# [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)
+
+暴力求解，每个节点都比较一遍。
