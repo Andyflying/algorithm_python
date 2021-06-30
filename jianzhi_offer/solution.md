@@ -17,3 +17,7 @@
 # [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)
 
 暴力求解，每个节点都比较一遍。
+
+# [剑指 Offer 16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
+
+快速幂。二分法进行幂运算。
